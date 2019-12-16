@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576494633 source:c:\users\ahmed nosir\desktop\project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"important_information.h"
+
+1576493049 c:\users\ahmed nosir\desktop\project\important_information.h
+
+1576498466 source:c:\users\ahmed nosir\desktop\project\important information.cpp
+	"important_information.h"
+
+1576498594 source:c:\users\ahmed nosir\desktop\project\important_information.cpp
+	"important_information.h"
+
